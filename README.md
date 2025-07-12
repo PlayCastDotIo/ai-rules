@@ -14,5 +14,5 @@ Then, when switching between rulesets, use
 to apply a given ruleset for the duration of the session.
 
 ## Available Rulesets
-- **Frontend Development**: `ruleset: https://raw.githubusercontent.com/playcastdotio/ai-rules/main/rulesets/frontend.md`
-- **Analytics**: `ruleset: https://raw.githubusercontent.com/playcastdotio/ai-rules/main/rulesets/analytics.md`
+- **Frontend Development**: `ruleset: https://raw.githubusercontent.com/playcastdotio/ai-rules/master/rulesets/frontend.md`
+- **Analytics**: `ruleset: https://raw.githubusercontent.com/playcastdotio/ai-rules/master/rulesets/analytics.md`
